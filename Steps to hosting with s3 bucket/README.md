@@ -1,5 +1,7 @@
 Step 1
 ![step 1] (./step 1.png)
+<img src="./step 1.png" alt="Alt Text" width="200"/>
+
 
 I logged into my AWS console and selected s3
 
