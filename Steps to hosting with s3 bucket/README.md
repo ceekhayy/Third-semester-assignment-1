@@ -1,5 +1,5 @@
 Step 1
-![step 1] (step 1.png)
+![step 1] (./step 1.png)
 
 I logged into my AWS console and selected s3
 
