@@ -1,5 +1,5 @@
 Step 1
-![alt text](<step 1.PNG>)
+![alt text](<images/step 1.png>)
 
 I logged into my AWS console and selected s3
 
